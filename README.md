@@ -1,2 +1,2 @@
 # hello-world
-Just another repository. Learning GitHub.
+I'm in the second-year master's program. Learning GitHub.
